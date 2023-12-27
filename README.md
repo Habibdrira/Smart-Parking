@@ -3,7 +3,7 @@
 # Système de Stationnement Intelligent
 
 ![Schéma de Branchement](image/smat_parking2.png)
-![Schéma de Branchement](image/smart_parking1.png)
+
 
 ## Aperçu
 
@@ -25,7 +25,7 @@ Le projet est simulé et modélisé à l'aide de Cisco Packet Tracer, offrant un
 - **Webcams :** Utilisées pour la surveillance visuelle de la zone de stationnement et l'enregistrement d'incidents.
 - **LEDs Intelligentes :** Indiquent l'état des places de stationnement (libre/occupé) et guident les utilisateurs.
 
-## Mise en Œuvre
+## Mise en oeuvre
 
 1. **Configuration du Microcontrôleur :** Programmez le microcontrôleur pour gérer les entrées/sorties et coordonner les actions des autres composants.
 2. **Intégration des Cartes RFID :** Configurez les cartes RFID pour l'autorisation d'accès, en les liant au serveur pour la gestion des données d'accès.
